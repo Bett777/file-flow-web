@@ -1,6 +1,6 @@
 
 
-#### file-flow-web是前后端分离的文档管理系统的前端部分，基于vue + elementUI, 参照[vue-admin-design](https://github.com/baimingxuan/vue-admin-design)。
+#### file-flow-web是前后端分离的文档管理系统的前端部分，基于vue + elementUI，参照项目: [vue-admin-design](https://github.com/baimingxuan/vue-admin-design)
 #### 后端项目地址: [https://github.com/Bett777/file-flow-web](https://github.com/Bett777/file-flow-web)
 
 
